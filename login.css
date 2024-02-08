@@ -138,6 +138,7 @@ img {
     font-family: fantasy;
     padding-left: 1600px;
     margin-top: -1150px;
+    color: #0c0c2b;
 }
 p{
     text-align: center;
@@ -148,4 +149,19 @@ p{
     display: flex;
     justify-content: left;
     align-items: center;
+}
+.css, .com {
+    width: 100%;
+    text-align: center;
+    padding-left: 1100px;
+}
+.css {
+    padding-top: 220px;
+}
+.subtitle {
+    color: #0c0c2b;
+}
+.com {
+    width:350%;
+    padding-top: -20px;
 }
